@@ -1,0 +1,10 @@
+name = "1PP PVP Mod"; // name
+picture = ""; // picture in expanded description
+logoSmall = ""; // icon next to mod name when description is not expanded
+logo = ""; // logo below game menu
+logoOver = ""; // on mouse hover over logo
+tooltip = ""; // tool tip on mouse hover
+overview = "Locks the player into 1PP mode when they enter a PVP zone or put a gun in their hands."; // overview
+action = "https://zenarchist.io/"; // link
+author = "Zenarchist"; // author
+version = "1.0"; // version
